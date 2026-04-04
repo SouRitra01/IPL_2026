@@ -6,7 +6,7 @@ import google.genai as genai
 # CONFIGURE GEMINI (ONCE)
 # -----------------------------
 def configure_gemini():
-    api_key = os.getenv("AIzaSyBZkS6j7hN_C5Q1eBSWRG0_dCRIvcMazXM")
+    api_key = os.getenv("GOOGLE_API_KEY")
 
     if not api_key:
         raise ValueError("❌ GOOGLE_API_KEY not set. Run: export GOOGLE_API_KEY=your_key")
