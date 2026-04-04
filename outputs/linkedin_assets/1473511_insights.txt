@@ -1,0 +1,27 @@
+MATCH CONTEXT:
+
+CURRENT MATCH:
+- Total Runs: 374
+- Total Wickets: 16
+- Venue: Narendra Modi Stadium, Ahmedabad
+- Top Batter: Shashank Singh
+- Top Bowler: Arshdeep Singh
+
+HISTORICAL CONTEXT:
+- Avg Runs (last 5 yrs at venue): 339.58
+- Avg Wickets: 11.83
+
+PLAYER CONTEXT:
+- Player: Shashank Singh
+- Avg Runs (historical): 24.39
+
+TASK:
+Give 3-5 deep insights:
+- Highlight anomalies
+- Compare with historical benchmarks
+- Identify unexpected patterns
+- Avoid generic commentary
+
+
+AI INSIGHTS:
+AI insights unavailable
